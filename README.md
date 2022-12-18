@@ -5,7 +5,7 @@
 	y al terminar un npm start.
 	
 	(Para visualizar correctamente el diseño responsive hay que hacer F5
-	tras activarlo para que funcione correctamente el dimensionado de
+	tras activarlo o desactivarlo para que funcione correctamente el dimensionado de
 	la gráfica)
 
 	Para comenzar aunque esta tarea se desvía de la misión principal de la prueba me pareció
@@ -35,6 +35,8 @@
 	por si era algún problema de mi equipo, no conseguí instalar varias librerias que probé para la tabla con los datos extraidos de la api,
 	tengo algún problema de dependencias (posiblemente causado por un error mío) pero prefería de momento entregar lo que tengo para no retrasar aún más 
 	la entrega de la prueba para no dar a entender que me he desentendido de ella ni nada similar.
+	
+	(Actualización día 18/12), creo haber encontrado el error en un conflico de material ui 4 con la version actual de react pero aún no logré repararlo)
 
 	Aunque me hubiese gustado haber podido realizar un mejor diseño pero creo que almenos cumple con
 	lo necesario ya que he utilizado tecnologías mencionadas en las instrucciones y es responsive. 
@@ -45,7 +47,7 @@
 	
 	Cualquier recomendación y sugerencia que me hagan pondré todo lo posible de mi parte para poder arreglarlo, solucionarlo o mejorarlo.
 
-    Como me solicitasteis en la entrevista presencial incluyo el enlace a los dos proyectos principales realizados en el bootcamp (el proyecto intermedio en solitario y el final en grupo).
+    Como me solicitasteis en la entrevista presencial incluyo el enlace a los dos proyectos principales realizados en el bootcamp (el proyecto intermedio en solitario 	   y el final en grupo).
     Aunque el vídeo del final alfinal no hilaron demasiado bien las explicaciones en el vídeo se pueden apreciar las vistas y funcionalidades del proyecto.
 
     proyecto mitad de bootcamp: https://youtu.be/T0-Tx2G0wCw
