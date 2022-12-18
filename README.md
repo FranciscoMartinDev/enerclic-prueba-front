@@ -1,7 +1,8 @@
 	ENERCLIC PRUEBA TÉCNICA FRANCISCO BLAS MARTÍN LOPEZ.
 	
 	Todo el codigo se encuentra comentado de manera explicativa para indicar los pasos que voy realizando.
-	El proyecto se debe iniciar con un npm i --force (por un error de dependencia que luego mencionaré) y al terminar un npm start.
+	El proyecto se debe iniciar con un npm i --force (por un error de dependencia que luego mencionaré) 
+	y al terminar un npm start.
 	
 	(Para visualizar correctamente el diseño responsive hay que hacer F5
 	tras activarlo para que funcione correctamente el dimensionado de
