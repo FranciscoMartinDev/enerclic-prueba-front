@@ -8,11 +8,11 @@
 	tras activarlo o desactivarlo para que funcione correctamente el dimensionado de
 	la gráfica)
 
-	Para comenzar aunque esta tarea se desvía de la misión principal de la prueba me pareció
+	Para comenzar, aunque esta tarea se desvía de la misión principal de la prueba me pareció
 	buena idea crear un logo para la presentación, y teniendo en cuenta la
 	plataforma redeia de donde proviene la API y la empresa para la que es la prueba
 	enerclic, me pareció buena idea fusionar las dos entidades en este proyecto ficticio
-	creando asi reclic fusionando tanto logo como alternando colores, con un ultimo detalle
+	creando así reclic, fusionando tanto logo como colores, con un ultimo detalle
 	en el circulo de la i, dejandolo del mismo color que el de la i de redeia, también se
 	realizo una fusión de la r y la c para el favicon.
 	
@@ -36,7 +36,7 @@
 	tengo algún problema de dependencias (posiblemente causado por un error mío) pero prefería de momento entregar lo que tengo para no retrasar aún más 
 	la entrega de la prueba para no dar a entender que me he desentendido de ella ni nada similar.
 	
-	(Actualización día 18/12), creo haber encontrado el error en un conflico de material ui 4 con la version actual de react pero aún no logré repararlo)
+	-- (Actualización día 19/12), creo haber encontrado el error en un conflico de material ui 4 con la version actual de react pero aún no logré repararlo)
 
 	Aunque me hubiese gustado haber podido realizar un mejor diseño pero creo que almenos cumple con
 	lo necesario ya que he utilizado tecnologías mencionadas en las instrucciones y es responsive. 
